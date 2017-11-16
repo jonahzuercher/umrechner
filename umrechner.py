@@ -102,7 +102,7 @@ while option.lower() != "x":
 Die eingegeben Zahl ist nicht mit der gewünschten Option kombinierbar!
 
 Bitte geben sie entweder eine neue Zahl (Option 0) ein, oder wählen sie eine andere Option!
-Sie werden in 5 Sekunden zum Menu weitergeleitet""")
+Sie werden zum Menu weitergeleitet""")
         time.sleep(7)
         printMenu()
     
