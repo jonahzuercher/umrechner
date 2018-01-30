@@ -22,7 +22,7 @@ def printMenu():
          **  (3) Binär zu Dezimal                     **
          **  (4) Binär zu Hexadezimal                 **
          **  (5) Hexadezimal zu Dezimal               **
-         **  (6) Hexadezimal zu binär                 **
+         **  (6) Hexadezimal zu Binär                 **
          **  (p) Zeige Menu                           **
          **  (x) Beenden                              **
          ***********************************************""")
